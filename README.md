@@ -1,12 +1,12 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Ajay Kumar Dewangan</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate AI Android developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-2022-soft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-2022-soft-tech" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@mr_ajay_kumar27" target="blank"><img src="https://img.shields.io/twitter/follow/@mr_ajay_kumar27?logo=twitter&style=for-the-badge" alt="@mr_ajay_kumar27" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin With Android Studio**
+- 🌱 I’m currently learning **AI ML / Flutter **
 
 - 💬 Ask me about **Android Support**
 
