@@ -1,4 +1,8 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.blahblah/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-2022-soft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-2022-soft-tech" /> </p>
 # 💫 About Me:
