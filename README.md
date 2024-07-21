@@ -1,7 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-2022-soft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-2022-soft-tech" /> </p>
 # 💫 About Me:
 Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android Developer || Wanted to Bring an Powerful Application that Will make our country Represent Globally around the world<br><br>Here are some Tools I worked mainly on <br>Java 🔥<br>Kotlin ( Little bit )<br>Firebase 🔥<br>Corel Draw ( Graphics Designer )<br>C/C++ ( For competitive Programming )<br>HTML/CSS/JS ( For Web design )<br>Python ( First Lang )<br>Be a Good Learner At any place And In Any Situation <br>You Are Able to Face Those Situations Simply<br><br>🌱 I’m currently learning **AI ML / Flutter **<br><br>💬 Ask me about Android Support<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-2022-soft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-2022-soft-tech" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
