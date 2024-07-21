@@ -4,7 +4,7 @@ Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android 
 
 
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/@mr_ajay_kumar27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_ajay_kumar27" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajay-kumar-dewangan-27aa75228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-kumar-dewangan-27aa75228" height="30" width="40" /></a>
@@ -18,7 +18,7 @@ Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android 
 </p>
 
 
-## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ajay_Co27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kumar-dewangan-27aa75228) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19971738) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MR_AJAY_KUMAR27) 
 
 # 💻 Tech Stack:
