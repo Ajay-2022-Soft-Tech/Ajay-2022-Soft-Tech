@@ -1,7 +1,21 @@
 # 💫 About Me:
-Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android Developer || Wanted to Bring an Powerful Application that Will make our country Represent Globally around the world<br><br>Here are some Tools I worked mainly on <br>Java 🔥<br>Kotlin ( Little bit )<br>Firebase 🔥<br>Corel Draw ( Graphics Designer )<br>C/C++ ( For competitive Programming )<br>HTML/CSS/JS ( For Web design )<br>Python ( First Lang )<br>Be a Good Learner At any place And In Any Situation <br>You Are Able to Face Those Situations Simply<br><br>🌱 I’m currently learning **AI ML / Flutter **<br><br>💬 Ask me about Android Support<br><br>📫 How to reach me dewanganajay05@gmail.com
+Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android Developer || Wanted to Bring an Powerful Application that Will make our country Represent Globally around the world<br><br>Here are some Tools I worked mainly on <br>Java 🔥<br>Kotlin ( Little bit )<br>Firebase 🔥<br>Corel Draw ( Graphics Designer )<br>C/C++ ( For competitive Programming )<br>HTML/CSS/JS ( For Web design )<br>Python ( First Lang )<br>Be a Good Learner At any place And In Any Situation <br>You Are Able to Face Those Situations Simply<br><br>🌱 I’m currently learning **AI ML / Flutter **<br><br>💬 Ask me about Android Support<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-2022-soft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-2022-soft-tech" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@mr_ajay_kumar27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mr_ajay_kumar27" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-kumar-dewangan-27aa75228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-kumar-dewangan-27aa75228" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19971738" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19971738" height="30" width="40" /></a>
+<a href="https://kaggle.com/ajaydewangan21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ajaydewangan21" height="30" width="40" /></a>
+<a href="https://instagram.com/ajay_co27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_co27" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ajay_optimizer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajay_optimizer" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dewanganajay05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dewanganajay05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dewanganajay05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dewanganajay05" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dewangan0qgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dewangan0qgd" height="30" width="40" /></a>
+</p>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ajay_Co27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kumar-dewangan-27aa75228) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19971738) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MR_AJAY_KUMAR27) 
@@ -23,19 +37,6 @@ Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ajay-2022-Soft-Tech&icon=0&color=1)](https://visitcount.itsvg.in)
 
-
-<h1 align="center">Hi 👋, I'm Ajay Kumar Dewangan</h1>
-<h3 align="center">A passionate AI Android Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-2022-soft-tech&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-2022-soft-tech" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay-2022-soft-tech" alt="ajay-2022-soft-tech" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@mr_ajay_kumar27" target="blank"><img src="https://img.shields.io/twitter/follow/@mr_ajay_kumar27?logo=twitter&style=for-the-badge" alt="@mr_ajay_kumar27" /></a> </p>
-
-- 🌱 I’m currently learning **AI ML / Flutter**
-
-- 💬 Ask me about **ML / Android Support (FLutter)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
