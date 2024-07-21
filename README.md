@@ -3,13 +3,6 @@ Hello' Everyone Welcome to my About Section<br>I'm Aspiring to be an AI Android 
 
 
 ## 🌐 Socials:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajay-2022-soft-tech&show_icons=true&locale=en&layout=compact" alt="ajay-2022-soft-tech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay-2022-soft-tech&show_icons=true&locale=en" alt="ajay-2022-soft-tech" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-2022-soft-tech&" alt="ajay-2022-soft-tech" /></p>
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Ajay_Co27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-kumar-dewangan-27aa75228) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19971738) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MR_AJAY_KUMAR27) 
 
 # 💻 Tech Stack:
